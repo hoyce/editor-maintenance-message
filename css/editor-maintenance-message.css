@@ -1,0 +1,14 @@
+
+.editorMaintenanceMessage {
+  position: fixed;
+  top: 92px;
+  z-index: 10000;
+  background-color: #FFFD54;
+  padding: 10px 20px;
+  border: 2px solid red;
+  right: 0;
+}
+
+.editorMaintenanceMessage:hover {
+  top: 192px;
+}
